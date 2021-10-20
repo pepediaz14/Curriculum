@@ -31,18 +31,17 @@ He trabajado con diferentes lenguajes y tecnologías a lo largo del Grado Superi
 - Css
 - Javascript
 
-
 ## Udemy
-- Introdución al Hacking y la Cyberseguridad: [Certificado]()
-- Introdución a Servidores Linux con Debian: [Certificado]()
-- The Certfied Ethical Hacker Course 2020 Edition: [Certificado]()
+- Introdución al Hacking y la Cyberseguridad: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/Udemy/Introduccion%20Hacking%20y%20Cyberseguridad.jpg)
+- Introdución a Servidores Linux con Debian: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/Udemy/Certificado_servidores.pdf)
+- The Certfied Ethical Hacker Course 2020 Edition: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/Udemy/TheCertfiedEthicalHackerCourse.pdf)
 
 ## PentestLab
-- Introduction: [Badge]()
-- Pcap: [Badge]()
-- Unix: [Badge]()
-- Android: [Badge]()
-- Recon: [Badge]()
+- Introduction: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/PentestLab/Certificado_PentesterLab_Introduccion.pdf)
+- Pcap: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/PentestLab/Certificado_PentesterLab_Pcap.pdf)
+- Unix: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/PentestLab/Certificado_PentesterLab_Unix.pdf)
+- Android: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/PentestLab/Certidicado_PentesterLab_Android.pdf)
+- Recon: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/PentestLab/Certificado_PentesterLab_Recon.pdf)
 
 
 ## PentestAcademy
@@ -56,12 +55,12 @@ He trabajado con diferentes lenguajes y tecnologías a lo largo del Grado Superi
 
 
 ## Participación en CTFs o conferencias
-- Top7 en competición organizada por INCIBE compitiendo con SumeriosTeam(CyberOlympics).[Certificado]()
-- Top1 Wormcon0x01.[Certificado]()
+- Top7 en competición organizada por INCIBE compitiendo con SumeriosTeam(CyberOlympics).[Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/CTFs/CyberOlympics_JoseAntonio.pdf)
+- Top1 Wormcon0x01.[Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/CTFs/Worcom.jpg)
 
 ## Meritos
-- Semifinalista de la National Cyberleague 2020[Certificado]()
-- Charla "Jugando a ser Hackers" al CES Juan Pablo II(Cádiz)[Cartel]()
+- Semifinalista de la National Cyberleague 2020[Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/Meritos/CER_SEMI014.pdf)
+- Charla "Jugando a ser Hackers" al CES Juan Pablo II(Cádiz)[Cartel](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/Meritos/Jugando_a_ser_hackers.jpg)
 - Organizador de la primera edición del CTF de UCA Cibersecurity Day
 
 
@@ -72,4 +71,8 @@ He trabajado con diferentes lenguajes y tecnologías a lo largo del Grado Superi
 - Permiso de condución tipo B
 
 
+
+
+
+*Gracias [srbleu](https://github.com/srbleu/Curriculum) por esta plantilla*
 
