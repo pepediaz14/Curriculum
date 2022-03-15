@@ -11,7 +11,7 @@
 - **CTFTime**:[W1C3](https://ctftime.org/user/54814)
 
 # Sobre mi
-Técnico en Sistemas Microinformativos y Redes, actualmente estudiando Desarrollo de Aplicaciones Multiplataforma. Entusiasta de la ciberseguridad, jugador activo de CTFs actualmente participando con Flaggermeister(Top 1º España y 6º del mundo). Dentro del equipo soy el encargado de Forensics y Pentesting. Entusiasta por el hardware hacking. 
+Técnico en Sistemas Microinformativos y Redes, estudiando Desarrollo de Aplicaciones Multiplataforma. Apasionado de la ciberseguridad, jugador activo de CTFs actualmente participando con Flaggermeister(Top 1º España y 6º del mundo). Dentro del equipo soy el encargado de Forensics y Pentesting. Entusiasta por el hardware hacking. 
 
 # Experiencia
 - **14/03/2019** - **14/06/2019** Practicas de Grado Medio en BeOneOff en la parte de BeOneSec como Auditor Web (Sevilla)
