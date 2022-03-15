@@ -46,7 +46,8 @@ Técnico en Sistemas Microinformativos y Redes, estudiando Desarrollo de Aplicac
 
 ## Participación en CTFs o conferencias
 - Top7 en competición organizada por INCIBE compitiendo con SumeriosTeam(CyberOlympics).[Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/CTFs/CyberOlympics_JoseAntonio.pdf)
-- Top1 Wormcon0x01.[Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/CTFs/Worcom.jpg)
+- Top 1 Proyecto Aurora 
+- Top 1 Wormcon0x01.[Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/CTFs/Worcom.jpg)
 - Top 1 Engineer CTF. [CTFTime](https://ctftime.org/event/1595)
 
 ## Meritos
