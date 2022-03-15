@@ -46,14 +46,14 @@ Técnico en Sistemas Microinformativos y Redes, estudiando Desarrollo de Aplicac
 
 ## Participación en CTFs o conferencias
 - Top7 en competición organizada por INCIBE compitiendo con SumeriosTeam(CyberOlympics).[Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/CTFs/CyberOlympics_JoseAntonio.pdf)
-- Top 1 Proyecto Aurora 
-- Top 1 Wormcon0x01.[Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/CTFs/Worcom.jpg)
-- Top 1 Engineer CTF. [CTFTime](https://ctftime.org/event/1595)
+- Top 1 Proyecto Aurora 2021
+- Top 1 Wormcon0x01 2021 [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/CTFs/Worcom.jpg) [CTFTime](https://ctftime.org/event/1391)
+- Top 1 Engineer CTF 2022 [CTFTime](https://ctftime.org/event/1595)
 
 ## Meritos
 - Semifinalista de la National Cyberleague 2020[Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/Meritos/CER_SEMI014.pdf)
-- Charla "Jugando a ser Hackers" al CES Juan Pablo II(Cádiz)[Cartel](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/Meritos/Jugando_a_ser_hackers.jpg)
-- Organizador de la primera edición del CTF de UCA Cibersecurity Day
+- Charla "Jugando a ser Hackers" al CES Juan Pablo II(Cádiz) 2021 [Cartel](https://github.com/J-W1C3/Curriculum/blob/main/Certificados/Meritos/Jugando_a_ser_hackers.jpg)
+- Organizador de la primera edición del CTF de UCA Cibersecurity Day 2021
 - Semifinalista de la National Cyberleague 2021
 - Top 3 Nacional en CTFTime 2021 [CTFTime](https://ctftime.org/team/138067)
 
